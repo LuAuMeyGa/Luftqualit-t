@@ -1,14 +1,14 @@
 [
   {
-    "name": "Bußgeld Tempo",
-    "uid": "Airquality_Station"
+    "name": "Airquality Station",
+    "uid": "airquality_station"
   },
   {
-    "name": "Bußgeld Ampel",
-    "uid": "Airquality_Metadata"
+    "name": "Airquality Metadata",
+    "uid": "airquality_metadata"
   },
   {
-    "name": "Bußgeld Abstand",
-    "uid": "Airquality_quality"
+    "name": "Airquality Quality",
+    "uid": "airquality_quality"
   }
 ]
